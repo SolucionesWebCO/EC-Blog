@@ -3,7 +3,7 @@ title:       Empleo Colombia - Blog
 email:       info@empleocolombia.ml
 author:      EmpleoColombia
 description: "Ofertas de empleo en Colombia. Página web gratis para su hoja de vida. Reciba las ofertas por email. Publicación gratuita de ofertas. Busqueda de empleos, trabajos, y curriculos."
-baseurl:     ""
+baseurl:     "/"
 url:         "http://blog.empleocolombia.ml"
 date_format: "%b %-d, %Y"
 
